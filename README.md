@@ -1,2 +1,2 @@
-# RefineInjection
-Refine Denpendency Injection focus on Hilt and dagger lib usage
+# Background
+Refine Dependency Injection focus on Hilt and Dagger lib usage
